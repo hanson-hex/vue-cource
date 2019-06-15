@@ -1,29 +1,11 @@
 # vue-cource
 
-## Project setup
-```
-yarn install
-```
+## 前言
+分享从零基础，熟悉vue核心概念，到大家一个大型的项目的
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## 基础环境搭建
+组件化使用小试牛刀
+在 (commit '基础可以看见本次的提交'）
 
-### Compiles and minifies for production
-```
-yarn run build
-```
 
-### Run your tests
-```
-yarn run test
-```
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
