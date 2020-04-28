@@ -28,6 +28,9 @@
           <template v-slot:item="props">
             <p>item slot-scope {{ props }}</p>
           </template>
+          <template v-slot:test="slotProps">
+            {{ slotProps.slotData }}
+          </template>
         </SlotDemo>
         <br />
         <h2>老语法</h2>
